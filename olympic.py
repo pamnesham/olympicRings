@@ -1,3 +1,6 @@
+#!python3
+
+#Ask user for circle size
 import turtle
 radius = turtle.numinput('','Enter a number for your circle\'s radius: ')
 
